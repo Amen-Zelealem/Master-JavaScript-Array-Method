@@ -11,7 +11,8 @@
 
 let bikes = ["Yamaha", "Bajaj", "Honda", "TVS"];
 
-console.log(bikes.toString()); 
+console.log(bikes.toString());
 
 //Output
+
 // Yamaha, Bajaj, Honda, TVS
